@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  padding: 1rem 0;
+}
+
+header, 
+button {
+  background: #0C1946;
+  color: #FFFFFF;
+}
+
+button {
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  margin: 20px 5px 30px;
+}
+
+input {
+  margin-top: 30px;
+  padding: 20px 0;
+  max-width: 35%;
+  font-size: 1.5rem;
+  color: black;
+  font-weight: bold;
+}
+
+input, 
+#results,
+#calculator {
+  border: 2px solid #0C1946;
+  border-radius: 5px;
+}
+
+#calculator {
+  margin: 3rem 0;
+}
+
+#results,
+#calculator {
+  margin-inline: 35%;
+}
+
+h2 {
+  margin: 15px 0;
+}

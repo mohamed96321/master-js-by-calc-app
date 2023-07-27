@@ -80,9 +80,23 @@
  * (Don't use that) arguments keyword using with function keyword, it's give you an array like object
  * Function inside function it's a local scope, maybe used it, but normaly we used global scope function
  * bind() you can use these method with this app try to use it, other methods call(), apply()
+ * Dom {
  * Nodes (e.e. div) and Elements (e.g. h1)
- * Attributes vs Properties
+ * Attributes:- e.g. id, class, and aria-hidden, etc. vs Properties:-e.g. the value that stored in html
  * Traversing Dom
+ * parent, node or element
+ * sibling, previous or next, element or node
+ * classList, it's related to css code 
+ * clone, child
+ * Live Node vs Static Node (Non-live node)
+ * Create, insert, remove element or node
+ * }
+ * Objects
+ * Arrays
+ * Iterable
+ * Class
+ * OOP
+ * inheritance
  */
 
 const defaultResult = 0;
